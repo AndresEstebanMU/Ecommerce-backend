@@ -10,6 +10,6 @@ module.exports = {
   getProductsCart,
   addProductCart,
   putProduct,
-  deleteProduct,
+  deleteProduct
   // getProductById
 };
