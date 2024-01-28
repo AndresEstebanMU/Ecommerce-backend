@@ -1,4 +1,4 @@
-const getProducts = require("./getProducts");
+const getProducts = require("./GetProducts");
 const getProductsCart = require("./GetProductsCart");
 const addProductCart = require("./addProductCart");
 const putProduct = require("./putProduct");
@@ -10,6 +10,6 @@ module.exports = {
   getProductsCart,
   addProductCart,
   putProduct,
-  deleteProduct
+  deleteProduct,
   // getProductById
 };
