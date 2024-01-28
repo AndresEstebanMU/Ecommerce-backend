@@ -33,7 +33,7 @@ app.get("/products", controllers.getProducts);
 app.get("/products-cart", controllers.getProductsCart);
 
 
-app.get("/productById/:_id", controllers.getProductById);
+// app.get("/productById/:_id", controllers.getProductById);
 
 
 /* POST */
