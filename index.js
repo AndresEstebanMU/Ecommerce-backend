@@ -71,9 +71,9 @@ app.post("/create_preference", async (req, res) => {
         },
       ],
       back_urls: {
-        success: "https://www.youtube.com/@onthecode",
-        failure: "https://www.youtube.com/@onthecode",
-        pending: "https://www.youtube.com/@onthecode",
+        success: "https://back-labotika.onrender.com",
+        failure: "https://back-labotika.onrender.com",
+        pending: "https://back-labotika.onrender.com",
       },
       auto_return: "approved",
     };
