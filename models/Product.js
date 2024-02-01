@@ -2,11 +2,12 @@
 const { model, Schema } = require("mongoose");
 
 const ProductSchema = new Schema({
-  // _id: {type: ObjectId, required: true},
+  _id: {type: ObjectId, required: true},
   name: { type: String, required: true, unique: true },
   img: { type: String, required: true },
   inCart: { type: Boolean, default: false },
   price: { type: Number, required: true },
+  sku: { type: String, required: true },
 });
 
 module.exports = model("Product", ProductSchema);
