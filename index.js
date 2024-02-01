@@ -71,9 +71,9 @@ app.post("/create_preference", async (req, res) => {
         },
       ],
       back_urls: {
-        success: "https://back-labotika.onrender.com",
-        failure: "https://back-labotika.onrender.com",
-        pending: "https://back-labotika.onrender.com",
+        success: "https://65bc027b8777410008850665--roaring-tulumba-ba31a3.netlify.app/",
+        failure: "https://65bc027b8777410008850665--roaring-tulumba-ba31a3.netlify.app/",
+        pending: "https://65bc027b8777410008850665--roaring-tulumba-ba31a3.netlify.app/",
       },
       auto_return: "approved",
     };
