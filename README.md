@@ -1,5 +1,6 @@
 
 
+
 # Botillería Online "La botika"
 
 La Botika es una plataforma digital diseñada para facilitar la compra de productos alcohólicos a través de internet. Este proyecto ofrece a los usuarios la conveniencia de explorar y adquirir una variedad de bebidas alcohólicas desde la comodidad de sus hogares. La plataforma incluye características como registro de usuarios, navegación intuitiva a través de un catálogo de productos, carrito de compras para gestionar selecciones y proceso de checkout seguro. Además cuenta con verificación de edad para cumplir con regulaciones legales, y medidas de seguridad de autenticación y protección de datos. La Botika busca proporcionar una experiencia de compra segura, conveniente y satisfactoria para sus usuarios.
@@ -48,12 +49,13 @@ Contactate con alguno de los autores.
 ## Autor
 
 Este proyecto fue creado por:
-Cecilia sánchez valenzuela    Cevictoria@gmail.com 
+Cecilia Sánchez Valenzuela    Cevictoria@gmail.com 
 Andrés Esteban Muñoz Urrutia  andresestebanmu@gmail.com
 Francis Yañez Merino          francisymerino@gmail.com
-Pablo José Oyola Lepe         paoyola.dwfs9@bootcampudd.cl													
+Pablo José Oyola Lepe         poyola@gmail.com													
 
 
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
+
