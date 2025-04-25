@@ -8,7 +8,7 @@ const ProductSchema = new Schema({
   img: { type: String, required: true },
   price: { type: Number, required: true },
   inCart: { type: Boolean, default: false },
-  sku: { type: String, required: true },
+  sku: { type: String, required: true, unique: true },
   stock : { type: Number, required: true },
 });
 
