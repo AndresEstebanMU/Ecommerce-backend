@@ -8,13 +8,13 @@ const userSchema = new mongoose.Schema({
         type: String,
         default: "Nombre no especificado",
         trim: true,
-        lowercase: true,
         minLength: 2
     },
     email: {
         type: String,
         trim: true,
         match: [/^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/g],
+        lowercase: true,
         required: true
     },
     age: {
