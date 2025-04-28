@@ -26,11 +26,6 @@ const userSchema = new mongoose.Schema({
         type: String,
         match: [/^(?=.*\d)(?=.*[a-z])(?=.*[a-zA-Z]).{8,}$/gm],
         required: true
-    },
-    salt: String,
-    isAdmin: {
-        type: Boolean,
-        default: false
     }
     // favoriteProducts: {
     //     type: mongoose.Types.ObjectId,
